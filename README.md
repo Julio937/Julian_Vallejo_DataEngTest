@@ -1,2 +1,2 @@
-# Technical_Test_Repo
+# Julian_Vallejo_DataEngTest
 Repository for a technical test
