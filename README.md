@@ -40,10 +40,10 @@ This repository contains:
    * Change to the silver transformation directory (replace `<YOUR_PROJECT_PATH>`):
 
      ```bat
-     cd /d "<YOUR_PROJECT_PATH>/task2/silver"
+     cd /d "<YOUR_PROJECT_PATH>/task2"
      ```
 
-     \*Example: \**`cd D:/DataEngineer_TechnicalTest/Julian_Vallejo_DataEngTest/task2/silver`*
+     \*Example: \**`cd D:/DataEngineer_TechnicalTest/Julian_Vallejo_DataEngTest/task2`*
    * Execute the notebook:
 
      ```bat
